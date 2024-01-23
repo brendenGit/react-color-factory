@@ -1,0 +1,12 @@
+.ColorList {
+    color: black;
+}
+
+.ColorList ul {
+    list-style-type: none;
+}
+
+.ColorList li {
+    padding: 0;
+    margin: 0;
+}

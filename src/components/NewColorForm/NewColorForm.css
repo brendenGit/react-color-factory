@@ -1,0 +1,31 @@
+form {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    width: 60%;
+    margin: auto;
+    padding: 2%;
+}
+
+form label,
+button {
+    margin-left: 10%;
+    margin-bottom: 10px;
+}
+
+form input {
+    margin-left: 10px;
+}
+
+.NewColorForm-Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+}
